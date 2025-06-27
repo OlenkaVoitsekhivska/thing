@@ -24,7 +24,7 @@ export const appConfig: ApplicationConfig = {
     provideFirebaseApp(() => initializeApp(
       {
         apiKey: "AIzaSyCJG4B4YhazPTq5HfZnYuMML07ouGmC10A",
-        authDomain: "site3304-dc397.web.app",
+        authDomain: "site3304-dc397.firebaseapp.com",
         projectId: "site3304-dc397",
         storageBucket: "site3304-dc397.firebasestorage.app",
         messagingSenderId: "418698337162",
